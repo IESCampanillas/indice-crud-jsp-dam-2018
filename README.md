@@ -9,4 +9,4 @@ Indice para el ejercicio "CRUD con JSP y BBDD"
 * [García Ruiz, Cintia](https://github.com/cyntigr/Ejercicio-CRUD.git)
 * [Rebollo Benítez, Salvador](https://github.com/SalvaRebollo/CRUD-con-JSP-y-MySQL)
 * [Villena Gil, Juan David](https://github.com/juandavidvillena/crud-jsp)
-* [Alejandro Caralt Caralt](https://github.com/AlejandroCaralt/CRUD-JSP)
+* [Alejandro, Caralt Caralt](https://github.com/AlejandroCaralt/CRUD-JSP)
