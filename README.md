@@ -12,3 +12,4 @@ Indice para el ejercicio "CRUD con JSP y BBDD"
 * [Villena Gil, Juan David](https://github.com/juandavidvillena/crud-jsp)
 * [Caralt Caralt, Alejandro](https://github.com/AlejandroCaralt/CRUD-JSP)
 * [Vargas Galán, Jesús](https://github.com/jesusvargasgalan/JSP-CRUD)
+* [Ruiz Mostazo, José Antonio](https://github.com/joseantonioruizmostazo/JSP-CRUD)
